@@ -1,0 +1,91 @@
+## Java
+
+- En este repositorio se encontraran diferentes apartados para aprender a como utilizar java y algunos conceptos básicos y intermedios de java.
+
+## Conceptos que estarán en este repositorio:
+
+- ¿Qué es Java?
+- Historia de Java
+- Hello World en Java con IntelliJ IDEA
+- Detalles internos del Hello World en Java: 
+    - ¿Qué sucede en el momento de la compilación?
+    - ¿Qué pasa en tiempo de ejecución?
+- Diferencia entre JDK, JRE y JVM
+- JMV Arquitectura
+- Variables Java
+- Tipos de datos en Java
+- Sistema Unicode
+- Operadores en Java
+- Palabras reservadas en Java
+- Declaraciones de control de Java | Flujo de control en Java
+    - Declaración de Java if-else
+    - Declaración de Java switch
+    - Declaración de Java for
+    - Declaración de Java while
+    - Declaración de Java do-while
+    - Declaración de Java break
+    - Declaración de Java continue
+    - Declaración de Java comments
+- Ejercicios básicos de programación en Java
+- Programación orientada a objetos en Java
+- Convención de nomenclatura en Java
+- Clases y objetos en Java
+- Métodos en Java
+- Constructor en Java
+- Palabra clave estática en Java
+- Palabra clave this en Java
+- Herencia en Java
+    - Agregación en Java
+- Polimorfismo en Java
+    - Sobrecarga de métodos
+    - Método de anulación
+    - Tipo de devolución de covarianza
+    - Palabra clave super
+    - Bloque inicializador de instancia
+    - Palabra clave final
+    - Polimorfismo de tiempo de ejecución
+    - Encuadernación dinámica
+    - Instancia de operador
+- Abstracción de Java
+    - Clase abstracta
+    - Interfaz
+    - Resumen vs interfaz
+- Encapsulación Java
+    - Paquete
+    - Modificadores de acceso
+    - Encapsulación
+- Arreglos de Java
+- Programación orientada a objetos Java Miscellaneous
+    - Clase de objeto
+    - Clonación de objetos
+    - Clase de matemáticas
+    - Clase de envoltura
+    - Recursión Java
+    - Llamada por valor
+    - Palabra clave strictfp
+    - herramienta javadoc
+    - Línea de comando Arg
+    - Objeto vs clase
+    - Sobrecarga vs Anulación
+- Métodos String Java
+- Java Regex o expresión regular
+- Manejo de excepciones en Java
+- Clases internas de Java (Clases anidadas)
+- Multiproceso en Java
+- Sincronización en Java
+- Tutorial de I / O de Java
+- Serialización Java
+- Redes Java
+- Tutorial Java AWT y eventos
+- Tutorial Java Swing
+- Tutorial JavaFX
+- Applet de Java
+- API de reflexión de Java
+- Fecha y hora de Java
+- Conversión de Java
+- Colecciones en Java
+- Tutorial de Java JDBC
+- Nuevas caracteristicas que se agregaron en Java5, Java6, Java7, Java8 y Java9
+- RMI (Invocación de método remoto)
+- Internalización y localización en Java
+

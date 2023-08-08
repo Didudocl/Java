@@ -1,8 +1,8 @@
 ## Java
-
+ 
 - En este repositorio se encontraran diferentes apartados para aprender a como utilizar java y algunos conceptos básicos y intermedios de java.
 
-## Conceptos que estarán en este repositorio:
+ Conceptos que estarán en este repositorio:
 
 - [Historia de Java | ¿Qué es Java?](./Java/Historia%20de%20Java/README.md)
 - [Hello World](./Java/Hello%20World/README.md) en Java con IntelliJ IDEA

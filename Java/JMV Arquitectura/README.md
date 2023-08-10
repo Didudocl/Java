@@ -71,3 +71,37 @@
 
 - Es un framework que proporciona una interfaz para comunicarse con otra aplicación escrita en otro lenguaje como C, C++, Assembly, etc.
 - Java utiliza el marco JNI para enviar la salida a la consola o interactuar con las bibliotecas del sistema operativo.
+
+
+## Ejemplo código ClassLoader
+
+- Instalar [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/?section=windows) para codificar.
+
+- Crear un nuevo proyecto:
+
+![img2_png](img2.png)
+
+- Crear un nuevo paquete:
+
+![img3_png](img3.png)
+
+- Colocar nombre al paquete:
+
+![img4_png](img4.png)
+
+- Crear una nueva clase java:
+
+![img5_png](img5.png)
+
+- Colocar nombre a la clase java:
+
+![img6_png](img6.png)
+
+- Ejemplo código ClassLoader:
+
+![img7_png](img7.png)
+
+- Resultado:
+
+![img8_png](img8.png)
+
